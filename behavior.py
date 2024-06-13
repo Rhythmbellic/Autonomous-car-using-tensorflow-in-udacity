@@ -1,7 +1,3 @@
-#clonong the data
-!git clone https://github.com/rslim087a/track
-!ls track
-!pip3 install imgaug
 #importing libraries
 import os
 import numpy as np
